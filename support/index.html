@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Support: Sendr</title>
+  <meta name="description" content="Contact the Sendr team: report a problem or ask a question about the mass text app for iPhone.">
+  <link rel="canonical" href="https://sendrgroupsms.app/support/">
+  
+  <meta name="apple-itunes-app" content="app-id=6795597851">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Sendr">
+  <meta property="og:title" content="Support: Sendr">
+  <meta property="og:description" content="Contact the Sendr team: report a problem or ask a question about the mass text app for iPhone.">
+  <meta property="og:url" content="https://sendrgroupsms.app/support/">
+  <meta property="og:image" content="https://sendrgroupsms.app/img/en/og.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:locale" content="en_US">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#1f5cf2">
+  <link rel="icon" href="/favicon.png" type="image/png">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="/"><img src="/img/icon.webp" alt="" width="32" height="32">Sendr</a>
+    <nav class="top-nav" aria-label="Guides"><a href="/guides/">Guides</a><a href="/support/">Support</a></nav>
+    <nav class="langs" aria-label="Language"><a href="/" aria-current="page" hreflang="en" title="English">EN</a> <a href="/ko/" hreflang="ko" title="한국어">한국어</a> <a href="/ru/" hreflang="ru" title="Русский">RU</a> <a href="/fr/" hreflang="fr" title="Français">FR</a> <a href="/pt-br/" hreflang="pt-BR" title="Português (Brasil)">PT</a> <a href="/es/" hreflang="es" title="Español">ES</a> <a href="/ja/" hreflang="ja" title="日本語">日本語</a></nav>
+  </header>
+
+  <main class="article">
+  <div class="support">
+    <h1>Support</h1>
+    <p class="lead">Something not working, or an idea for Sendr? Write to us. We read every message and reply by email.</p>
+    <form id="support-form" action="https://docs.google.com/forms/d/e/1FAIpQLSceqolI-pKHoZL5P58fyhS28vyLzALj2E1eFznvRDiJv7WhZw/formResponse" method="post">
+      <label for="support-email">Your email</label>
+      <input id="support-email" name="entry.806880087" type="email" required autocomplete="email" placeholder="you@example.com">
+      <label for="support-message">Message</label>
+      <textarea id="support-message" name="entry.1338395016" rows="7" required placeholder="What happened, and what did you expect? The iPhone model and iOS version help too."></textarea>
+      <p class="cta-wrap"><button class="cta" type="submit">Send message</button></p>
+    </form>
+    <p id="support-done" hidden>Thanks, your message is on its way. We will reply to your email.</p>
+    <p id="support-fail" hidden>The message did not go through. Please try again, or <a href="https://forms.gle/RbQHazbS2a8kMYJF9" rel="noopener">use the form on Google</a>.</p>
+    <section>
+      <h2>Before you write</h2>
+      <p>Most answers are in the <a href="/guides/">guides</a>. Subscription questions: open Sendr, go to Settings, then Manage Subscription.</p>
+    </section>
+  </div>
+  </main>
+  <script>
+    const form = document.querySelector("#support-form");
+    form.addEventListener("submit", async (event) => {
+      event.preventDefault();
+      form.querySelector("button").disabled = true;
+      try {
+        await fetch(form.action, { method: "POST", mode: "no-cors", body: new FormData(form) });
+        form.hidden = true;
+        document.querySelector("#support-done").hidden = false;
+      } catch {
+        form.querySelector("button").disabled = false;
+        document.querySelector("#support-fail").hidden = false;
+      }
+    });
+  </script>
+
+  <footer>
+    <p class="links"><a href="/guides/">Guides</a> <a href="/support/">Support</a> <a href="/privacy/">Privacy</a> <a href="/terms/">Terms</a></p>
+    <p>© 2026 buildFor</p>
+  </footer>
+</body>
+</html>

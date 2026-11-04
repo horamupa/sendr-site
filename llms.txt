@@ -21,6 +21,7 @@
 - [Português (Brasil)](https://sendrgroupsms.app/pt-br/): Envie um texto para várias pessoas em mensagens separadas pelo seu número. Sem grupo e sem resposta para todos. Sendr é grátis para iPhone.
 - [Español](https://sendrgroupsms.app/es/): Envía un texto a muchas personas en mensajes separados desde tu número. Sin chat de grupo ni respuestas a todos. Sendr es gratis para iPhone.
 - [日本語](https://sendrgroupsms.app/ja/): 1つのメッセージを、あなたの番号から一人ずつ別々に送信。グループチャットも全員返信もありません。SendrはiPhone向けの無料ダウンロードアプリです。
+- [Support](https://sendrgroupsms.app/support/)
 - [Privacy Policy](https://sendrgroupsms.app/privacy/)
 - [Terms of Use](https://sendrgroupsms.app/terms/)
 
