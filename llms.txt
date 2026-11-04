@@ -1,0 +1,29 @@
+# Sendr
+
+> Mass text app for iPhone. Sendr sends one text to many people as separate messages from the user's own number, so no group chat starts and nobody sees the other recipients.
+
+## Key facts
+
+- Who it is for: small business owners, realtors, coaches, event hosts and team leads who text a list of people.
+- Channels: iMessage and SMS through the Messages app, WhatsApp text only.
+- Personalization: {first_name}, {last_name}, {name}, {company} and custom fields.
+- Price: free download. Free sends one by one, the user taps Send for each person. Pro adds automatic sending through an iOS Shortcut and AI rewriting, $59.99 a year with a one-week trial or $5.99 a week in the US.
+- Platform: iPhone, iOS 18 or later. No Android version.
+- Data: contacts and messages stay on the iPhone. No account and no Sendr server.
+- App Store: https://apps.apple.com/app/id6795597851
+
+## Pages
+
+- [English](https://sendrgroupsms.app/): Send one text to many people as separate messages from your own number. No group chat, no reply-all. Sendr is a free download for iPhone.
+- [한국어](https://sendrgroupsms.app/ko/): 문자 하나를 여러 사람에게 내 번호로 따로따로 보냅니다. 그룹 채팅도, 전체 답장도 없습니다. Sendr는 아이폰용 무료 다운로드 앱입니다.
+- [Русский](https://sendrgroupsms.app/ru/): Один текст уходит каждому отдельным сообщением с вашего номера. Без группового чата и ответов всем. Sendr бесплатно скачивается на iPhone.
+- [Français](https://sendrgroupsms.app/fr/): Envoyez un texte à plusieurs personnes en messages séparés depuis votre numéro. Sans groupe ni réponse à tous. Sendr est gratuit sur iPhone.
+- [Português (Brasil)](https://sendrgroupsms.app/pt-br/): Envie um texto para várias pessoas em mensagens separadas pelo seu número. Sem grupo e sem resposta para todos. Sendr é grátis para iPhone.
+- [Español](https://sendrgroupsms.app/es/): Envía un texto a muchas personas en mensajes separados desde tu número. Sin chat de grupo ni respuestas a todos. Sendr es gratis para iPhone.
+- [日本語](https://sendrgroupsms.app/ja/): 1つのメッセージを、あなたの番号から一人ずつ別々に送信。グループチャットも全員返信もありません。SendrはiPhone向けの無料ダウンロードアプリです。
+- [Privacy Policy](https://sendrgroupsms.app/privacy/)
+- [Terms of Use](https://sendrgroupsms.app/terms/)
+
+## Guides
+
+- [How to Send a Mass Text on iPhone Without a Group Chat](https://sendrgroupsms.app/how-to-send-mass-text-iphone/): Three ways to send one text to many people on iPhone without a group chat: Messages settings, a Shortcuts loop, or a mass text app.
