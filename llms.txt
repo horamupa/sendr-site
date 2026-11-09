@@ -27,6 +27,7 @@
 
 ## Guides
 
+- [How to Send a Text to Multiple People Without a Group Chat](https://sendrgroupsms.app/how-to-send-text-to-multiple-people/): Text multiple people at once without a group chat on Android and iPhone: the Google Messages mass text setting, iPhone options and personal texts.
 - [BCC Text on iPhone: Can You BCC a Text Message?](https://sendrgroupsms.app/bcc-text-iphone/): Messages has no BCC field. Here is what BCC means in a text and three ways to send a BCC text on iPhone so no one sees the other recipients.
 - [Best Mass Text Apps for iPhone in 2026: 7 Compared](https://sendrgroupsms.app/best-mass-text-apps-iphone/): 7 mass text apps for iPhone that send each person a separate text from your own number: ratings, prices and what each one does best.
 - [Thank You Messages to Clients: 20 Text Templates](https://sendrgroupsms.app/thank-you-messages-to-clients/): 20 thank you messages to clients and customers: after a purchase, a project, a referral or a good year, plus how to send them without a group chat.
