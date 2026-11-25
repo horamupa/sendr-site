@@ -27,6 +27,7 @@
 
 ## Guides
 
+- [How to Turn Off Group Messaging on iPhone](https://sendrgroupsms.app/turn-off-group-messaging-iphone/): How to turn off group messaging on iPhone: switch off MMS and RCS, leave or mute a group, block it, or text people without starting a group.
 - [Best Group Text Apps for iPhone in 2026: 8 Compared](https://sendrgroupsms.app/best-group-text-apps/): 8 group text apps for iPhone that send one message to a saved group as separate texts from your own number. Ratings, prices and group chat options.
 - [BCC Text Alternatives: 7 Mass Text Apps for iPhone (2026)](https://sendrgroupsms.app/bcc-text-app-alternatives/): 7 BCC Text alternatives for iPhone that text each person separately from your own number: free versions, ratings, languages, WhatsApp and photos.
 - [Quick Send Alternatives: 7 Mass Text Apps for iPhone (2026)](https://sendrgroupsms.app/quick-send-alternatives/): 7 Quick Send alternatives for iPhone that text each person separately from your own number: free versions, ratings, languages, WhatsApp and photos.
